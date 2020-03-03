@@ -1,0 +1,9 @@
+Package: com.twickd.turnt-ducky.darkmode
+Name: Darkmode
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A true iOS Darkmode for iOS 12 (ONLY SYSTEM THINGS)
+Maintainer: turnt ducky
+Author: turnt ducky
+Section: Darkmodes

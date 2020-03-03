@@ -1,0 +1,10 @@
+{
+    Filter =     {
+        Bundles =         (
+            "com.apple.UIKitCore",
+            "com.apple.UIKit",
+            "com.apple.Preferences",
+            "com.apple.SpringBoard",
+        );
+    };
+}
